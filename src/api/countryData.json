@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.42 billion",
+    "interestingFact": "India is the world’s largest democracy."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "340 million",
+    "interestingFact": "The U.S. has the world’s largest economy."
+  },
+  {
+    "id": 3,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "124 million",
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "27 million",
+    "interestingFact": "Australia is home to unique animals like kangaroos and koalas."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "216 million",
+    "interestingFact": "Brazil contains 60% of the Amazon Rainforest."
+  },
+  {
+    "id": 6,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": "67 million",
+    "interestingFact": "Big Ben is actually the nickname for the Great Bell, not the tower."
+  },
+  {
+    "id": 7,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million",
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": "84 million",
+    "interestingFact": "Germany is the birthplace of the printing press."
+  },
+  {
+    "id": 9,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "65 million",
+    "interestingFact": "The Eiffel Tower was originally meant to be temporary."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": "61 million",
+    "interestingFact": "South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein."
+  }
+]
