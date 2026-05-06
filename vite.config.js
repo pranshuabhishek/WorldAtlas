@@ -15,5 +15,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/WorldAtlas/"   // ⚠️ MUST be repo name
+  base: "/"
 })

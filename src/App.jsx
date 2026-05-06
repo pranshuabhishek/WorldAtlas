@@ -82,7 +82,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/react_country/",   // 🔥 THIS IS THE FIX
+    basename: "/",   // 🔥 THIS IS THE FIX
   }
 );
 
